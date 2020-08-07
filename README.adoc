@@ -31,6 +31,8 @@ You will learn how to build an application with multiple modules with Maven and 
 
 == What you'll learn
 
+Demo test 7/8 10:00
+
 A Java Platform, Enterprise Edition (Java EE) application consists of modules that work together as one entity. An enterprise archive (EAR) is a wrapper for a Java EE application, which consists of web archive (WAR) and Java archive (JAR) files. Package modules and resources into an EAR file to deploy or distribute the Java EE application to new environments.
 
 You will learn how to establish a dependency between a web module and a Java library module. Next, use Maven to package the WAR file and the JAR file into an EAR file so that you can run and test the application on Open Liberty.
